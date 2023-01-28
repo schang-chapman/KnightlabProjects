@@ -1,0 +1,28 @@
+#########################
+Name: sharon
+Date: 2020-06-01
+Number: 41
+Guesses: 5
+Hints Given: 1
+Limes Harvested: 0
+#########################
+Name: sharon
+Date: 2020-06-02
+Number: 75
+Guesses: 13
+Hints Given: 4
+Limes Harvested: 0
+#########################
+Name: cool
+Date: 2020-06-02
+Number: 18
+Guesses: 0
+Hints Given: 0
+Limes Harvested: 0
+#########################
+Name: test
+Date: 2020-06-02
+Number: 56
+Guesses: 4
+Hints Given: 1
+Limes Harvested: 1
